@@ -1,0 +1,1 @@
+2023-11-17 10:12:59,755 [16396] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
